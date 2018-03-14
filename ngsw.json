@@ -10,7 +10,7 @@
         "/testpwa/favicon.ico",
         "/testpwa/index.html",
         "/testpwa/inline.318b50c57b4eba3d437b.bundle.js",
-        "/testpwa/main.b43f8cf20b36715e104b.bundle.js",
+        "/testpwa/main.6a99028b314693e2d468.bundle.js",
         "/testpwa/polyfills.bf95165a1d5098766b92.bundle.js",
         "/testpwa/styles.ac89bfdd6de82636b768.bundle.css"
       ],
@@ -30,10 +30,10 @@
   "hashTable": {
     "/testpwa/inline.318b50c57b4eba3d437b.bundle.js": "998c6060446975e566fd17509558ddc68d72eec3",
     "/testpwa/assets/icon.png": "63eb38cc159832f25c0024af00ccc93480c44ece",
-    "/testpwa/main.b43f8cf20b36715e104b.bundle.js": "2b096581193b82332bb1051276bf2e64225457c9",
+    "/testpwa/main.6a99028b314693e2d468.bundle.js": "3a50ec22fdaa5d61332e62d7c62d4a50b6271b6e",
     "/testpwa/polyfills.bf95165a1d5098766b92.bundle.js": "5f49131c0c147a20f91b1e77814434e0c77bd3dc",
     "/testpwa/styles.ac89bfdd6de82636b768.bundle.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
     "/testpwa/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "/testpwa/index.html": "e19825a9e1016756c685541ebfe17fa5b5b82892"
+    "/testpwa/index.html": "2edaca4ecabde316db524e1ccbb458fd077c571e"
   }
 }
