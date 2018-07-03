@@ -1,18 +1,18 @@
 {
   "configVersion": 1,
-  "index": "/index.html",
+  "index": "/testpwa/index.html",
   "assetGroups": [
     {
       "name": "app",
       "installMode": "prefetch",
       "updateMode": "prefetch",
       "urls": [
-        "/favicon.ico",
-        "/index.html",
-        "/inline.318b50c57b4eba3d437b.bundle.js",
-        "/main.924c282095ea118becbe.bundle.js",
-        "/polyfills.bf95165a1d5098766b92.bundle.js",
-        "/styles.ac89bfdd6de82636b768.bundle.css"
+        "/testpwa/favicon.ico",
+        "/testpwa/index.html",
+        "/testpwa/inline.318b50c57b4eba3d437b.bundle.js",
+        "/testpwa/main.924c282095ea118becbe.bundle.js",
+        "/testpwa/polyfills.bf95165a1d5098766b92.bundle.js",
+        "/testpwa/styles.ac89bfdd6de82636b768.bundle.css"
       ],
       "patterns": []
     },
@@ -21,19 +21,19 @@
       "installMode": "lazy",
       "updateMode": "prefetch",
       "urls": [
-        "/assets/icon.png"
+        "/testpwa/assets/icon.png"
       ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
-    "/inline.318b50c57b4eba3d437b.bundle.js": "998c6060446975e566fd17509558ddc68d72eec3",
-    "/assets/icon.png": "45db8de5306c831e055c2f2dd549c390927a35fd",
-    "/main.924c282095ea118becbe.bundle.js": "8b241a9a8af17a57463ecc638750913981a1535b",
-    "/polyfills.bf95165a1d5098766b92.bundle.js": "5f49131c0c147a20f91b1e77814434e0c77bd3dc",
-    "/styles.ac89bfdd6de82636b768.bundle.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
-    "/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "/index.html": "f73a56de9bbce16200d0ad1f3d8f7d5c907b1115"
+    "/testpwa/inline.318b50c57b4eba3d437b.bundle.js": "998c6060446975e566fd17509558ddc68d72eec3",
+    "/testpwa/assets/icon.png": "45db8de5306c831e055c2f2dd549c390927a35fd",
+    "/testpwa/main.924c282095ea118becbe.bundle.js": "8b241a9a8af17a57463ecc638750913981a1535b",
+    "/testpwa/polyfills.bf95165a1d5098766b92.bundle.js": "5f49131c0c147a20f91b1e77814434e0c77bd3dc",
+    "/testpwa/styles.ac89bfdd6de82636b768.bundle.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "/testpwa/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
+    "/testpwa/index.html": "c3f4653bff5f4d52eb2ab83a1ff7601a0a0c5211"
   }
 }
